@@ -3,7 +3,7 @@
 
 
 ## Demonstration
-video here (link or embed?) 
+<!-- Add video - linked or embed? -->
 
 ## Technologies Used
 * JavaScript
@@ -12,7 +12,7 @@ video here (link or embed?)
 * ES6+
 
 ## What It Looks Like
-screenshots + samedoc link to functionality demo vid
+<!-- screenshots + samedoc link to functionality demo vid -->
 
 ## License 
 MIT
