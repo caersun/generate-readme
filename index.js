@@ -58,13 +58,13 @@ const questions = [
 
 // function that promps user with questions array
 function promptUser() {
-    console.log("The promptUser() says hi!");
+    // console.log("The promptUser() says hi!");
     return inquirer.prompt([...questions]); 
 }
 
 // function to initialize program
 async function init() {
-    console.log("The init() says hi!");
+    // console.log("The init() says hi!");
     try {
         const data = await promptUser();
         const md = generateMarkdown(data);
