@@ -21,23 +21,23 @@ const questions = [
     {
         type: "input",
         name: "installation",
-        message: "How is your project installed?"
+        message: "Describe installation instructions for your project."
     },
     {
         type: "input",
         name: "usage",
-        message: "How should users use your project?"
+        message: "Describe usage information for your project."
     },
     {
         type: "list",
         name: "license",
         message: "Under what license is your project covered?",
-        choices: [ "license 1", "license 2" ]
+        choices: [ "MIT", "LGPL", "MPL", "AGPL", "Unlicense", "Apache", "GPL", "Open source", "None" ]
     },
     {
         type: "input",
         name: "contributing",
-        message: "What are the contribution guidelines of your project?"
+        message: "Describe the contribution guidelines for your project."
     },
     {
         type: "input",
@@ -69,7 +69,7 @@ async function init() {
         const data = await promptUser();
         const md = generateMarkdown(data);
         
-        await writeFileAsync("sample.md", md);
+        await writeFileAsync("sample.md", md); // can i change the sample.md file to `${data.title}README.md` ??
         console.log("Succesfully wrote to sample.md");
     } catch (err) {
         console.log(err);
