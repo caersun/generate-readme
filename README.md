@@ -15,7 +15,7 @@
 <!-- screenshots + samedoc link to functionality demo vid -->
 
 ## License 
-MIT
+Lincensed under the MIT license
 
 ## Questions
 Contact me with any further questions:
