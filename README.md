@@ -3,7 +3,7 @@
 
 
 ## Demonstration
-`<iframe src="https://drive.google.com/file/d/1YGEMKDekNzCqILCFUDEmYl_VqXbP8T51/preview" width="640" height="480"></iframe>`
+![Functionality](/assets/functionality-video.mp4)
 <video width="320" height="240" controls>
   <source src="/assets/functionality-video.mp4" type="video/mp4">
 </video>
@@ -18,7 +18,7 @@ Initialize "Generate README.md" by installing necessary dependencies with `npm i
 * ES6+
 
 ## What It Looks Like
-![Functionality Gif](/assets/functionality.gif)
+![Functionality Gif](assets/functionality.gif)
 
 ## License 
 Lincensed under the MIT license
