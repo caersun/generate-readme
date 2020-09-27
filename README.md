@@ -3,7 +3,7 @@
 
 
 ## Demonstration
-<iframe src="https://drive.google.com/file/d/1YGEMKDekNzCqILCFUDEmYl_VqXbP8T51/preview" width="640" height="480"></iframe>
+`<iframe src="https://drive.google.com/file/d/1YGEMKDekNzCqILCFUDEmYl_VqXbP8T51/preview" width="640" height="480"></iframe>`
 
 ## Installation
 Initialize "Generate README.md" by installing necessary dependencies with `npm install` or `npm i`. Then, in the command-line or terminal, move into the directory and start application with `node index.js`.
@@ -15,7 +15,7 @@ Initialize "Generate README.md" by installing necessary dependencies with `npm i
 * ES6+
 
 ## What It Looks Like
-![Functionality Gif](assets/functionality.gif)
+![Functionality Gif](./assets/functionality.gif)
 
 ## License 
 Lincensed under the MIT license
