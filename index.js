@@ -26,7 +26,7 @@ const questions = [
     {
         type: "input",
         name: "usage",
-        message: "Describe usage information and exaples of use for your project."
+        message: "Describe usage information and examples of use for your project."
     },
     {
         type: "list",
