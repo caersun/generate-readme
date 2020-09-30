@@ -3,7 +3,7 @@
 
 
 ## Demonstration
-![Functionality](/assets/functionality.gif)(https://drive.google.com/file/d/1YGEMKDekNzCqILCFUDEmYl_VqXbP8T51/view)
+To view a walkthrow of app functionality, click ![HERE](https://drive.google.com/file/d/1YGEMKDekNzCqILCFUDEmYl_VqXbP8T51/view)
 
 ## Installation
 Initialize "Generate README.md" by installing necessary dependencies with `npm install` or `npm i`. Then, in the command-line or terminal, move into the directory and start application with `node index.js`.
