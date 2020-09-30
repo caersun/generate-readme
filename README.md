@@ -3,10 +3,7 @@
 
 
 ## Demonstration
-![Functionality](/assets/functionality-video.mp4)
-<video width="320" height="240" controls>
-  <source src="/assets/functionality-video.mp4" type="video/mp4">
-</video>
+![Functionality](/assets/functionality.gif)(https://drive.google.com/file/d/1YGEMKDekNzCqILCFUDEmYl_VqXbP8T51/view)
 
 ## Installation
 Initialize "Generate README.md" by installing necessary dependencies with `npm install` or `npm i`. Then, in the command-line or terminal, move into the directory and start application with `node index.js`.
